@@ -1,0 +1,24 @@
+{
+  "name": "node-microservice",
+  "version": "1.0.0",
+  "description": "Simple Node Microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iphayao/node-microservice.git"
+  },
+  "keywords": [],
+  "author": "phayaob@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iphayao/node-microservice/issues"
+  },
+  "homepage": "https://github.com/iphayao/node-microservice#readme"
+}
