@@ -9,6 +9,6 @@ app.use(express.json());
 app.use(express.urlencoded({extended: false}));
 
 app.use('/', indexRoute);
-app.use('/users', userRoute);
+app.use('/api/users', userRoute);
 
 module.exports = app;
